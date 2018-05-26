@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dirk Degel</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Dirk Degel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal Adaptation Process of EMS Systems in a Changing and Uncertain Environment</title>
+      <link>/publication/optimal-adaptation-process-of-ems-systems-in-a-changing-and-uncertain-environment/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/optimal-adaptation-process-of-ems-systems-in-a-changing-and-uncertain-environment/</guid>
+      <description>Please don&amp;rsquo;t hesitate to ask me for a PDF copy and/or $\rm \LaTeX$ source code.</description>
+    </item>
+    
+    <item>
+      <title>Improved Handling of Uncertainty and Robustness in Set Covering Problems</title>
+      <link>/publication/improved-handling-of-uncertainty-and-robustness-in-set-covering-problems/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/improved-handling-of-uncertainty-and-robustness-in-set-covering-problems/</guid>
+      <description>Please don&amp;rsquo;t hesitate to ask me for a PDF copy and/or $\rm \LaTeX$ source code.</description>
+    </item>
+    
+  </channel>
+</rss>
