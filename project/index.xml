@@ -7,18 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>EMS Optimzation</title>
+      <link>/project/ems-optimization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
-      <description>Soon&amp;hellip;</description>
+      <guid>/project/ems-optimization/</guid>
+      <description>Check out the project page at Ruhr University Bochum.</description>
+    </item>
+    
+    <item>
+      <title>simplexR</title>
+      <link>/project/simplexr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/simplexr/</guid>
+      <description>Check out the project page on github.</description>
     </item>
     
   </channel>
